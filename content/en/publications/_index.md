@@ -12,6 +12,33 @@ menu: {main: {weight: 20}}
 This page presents the publications about SZ from the core group as well as publications presenting other extensions, optimizations and implementations of SZ. If we missed publications, please contact us.
 
 <br />
+<text style="font-size:26px;font-weight:bold">2025</text>
+<br />
+<ul>
+<li>
+[IPDPS'25]Longtao Zhang, Ruoyu Li, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Cappello, Kai Zhao, "LCP: Enhancing Scientific Data Management with Lossy Compression for Particles", in ACM Special Interest Group on Management of Data (SIGMOD2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Pu Jiao, Sheng Di, Mingze Xia, Xuan Wu, Jinyang Liu, Xin Liang, and Franck Cappello, "Improving the Efficiency of Interpolation-Based Scientific Data Compressors with Adaptive Quantization Index Prediction", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+Shihui Song, Robert Underwood, Sheng Di, Yafan Huang, Peng Jiang, Franck Cappello, "A Memory-efficient and Computation-balanced Lossy Compressor on Wafer-Scale Engine", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Alexandra Poulos, Robert Underwood, Jon C. Calhoun, Sheng Di, and Franck Cappello, "Sensitivity and Impacts on Parallel Compression of Prediction of Lossy Compression Ratios for Scientific Data", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Alex Fallin, Noushin Azami, Sheng Di, Franck Cappello, Martin Burtscher, "Fast and Effective Lossy Compression on GPUs and CPUs with Guaranteed Error Bounds", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Grant Wilkins, Sheng Di, Robert Underwood, Jon C. Calhoun, and Franck Cappello, "To Compress or Not To Compress: Energy and Runtime Trade-Offs in Lossy Compressed I/O", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+[IPDP'25] Xuan Wu, Sheng Di, Congrong Ren, Pu Jiao, Mingze Xia, Cheng Wang, Hanqi Guo, Xin Liang, and Franck Cappello, "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025.
+</li>
+</ul>
+
+<br />
 <text style="font-size:26px;font-weight:bold">2024</text>
 <br />
 <ul>
