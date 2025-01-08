@@ -44,11 +44,11 @@ We work together with researcher all over the world to build the most advanced l
 </div>
 
 
-<a style="font-size: 30px;" href="https://homes.luddy.indiana.edu/fgsong/" target="_blank">Fengguang Song</a>
+<a style="font-size: 30px;" href="https://science.indianapolis.iu.edu/people-directory/people/song-fengguang.html" target="_blank">Fengguang Song</a>
 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://homes.luddy.indiana.edu/fgsong/FGSong.jpg" alt="Fengguang Song" style="float:left;width:100vh;height:20vh;">
+  <img src="https://science.indianapolis.iu.edu/images/profiles/tn/tn-new/song.jpg" alt="Fengguang Song" style="float:left;width:100vh;height:20vh;">
   <p style="margin-left: 20px;">Fengguang Song is an Associate Professor of Computer Engineering in the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. He earned his Ph.D. in Computer Science from University of Tennessee at Knoxville under the direction of the 2021 Turing Award Winner, Jack Dongarra. After receiving his PhD, he continued to work with Jack as a Post-doctoral Research Associate between 2010 and 2012, then worked as a Senior Research Scientist in the Computer Science Lab at Samsung Research America-Silicon Valley. Between 2013 and 2023, Dr. Song worked as an Assistant Professor then Associate Professor of Computer Science at Indiana University Purdue University.</p>
 </div>
 
@@ -70,18 +70,12 @@ We work together with researcher all over the world to build the most advanced l
   <p style="margin-left: 20px;">Dr. Hanqi Guo is an Associate Professor at the Department of Computer Science and Engineering at The Ohio State University, and he also holds a joint appointment at the Mathematics and Computer Science Division at Argonne National Laboratory.  His research interests include visualization, analysis, and machine learning for large-scale scientific data.  He is an awardee of the Department of Energy (DOE) Early Career Research Program (ECRP) in 2022 and received multiple best paper awards in premiere visualization conferences.</p>
 </div>
 
-<br />
-{{% blocks/section %}}
 
-# Post-Doctoral Researchers
-{.text-center}
-
-{{% /blocks/section %}}
 <a style="font-size: 30px;" href="https://robertu94.github.io" target="_blank">Robert Underwood</a>
 
 <div style="display: flex; align-items: center;">
   <img src="./robert.jpeg" alt="Robert Underwood" style="float:left;width:200px;height:20vh;">
-  <p style="margin-left: 20px;width:95%;">Robert Underwood is a Post Doctoral Appointee in the Mathematics and Computer Science Division at Argonne National Laboratory focusing on using data compression to accelerate I/O for large-scale scientific applications including AI for Science.    His library LibPressio, which allows users to experiment and adopt advanced compressors quickly, has over 200 average unique monthly downloads, is used in over 17 institutions worldwide, and is a contributor to the R&D100 winning SZ family of compressors and other compression libraries.  He regularly mentors students and is the early career ambassador for Argonne to the Joint Laboratory for Extreme Scale Computing.</p>
+  <p style="margin-left: 20px;width:95%;">Robert Underwood is an assistant computer scientist in the Mathematics and Computer Science Division at Argonne National Laboratory focusing on using data compression to accelerate I/O for large-scale scientific applications including AI for Science.    His library LibPressio, which allows users to experiment and adopt advanced compressors quickly, has over 200 average unique monthly downloads, is used in over 17 institutions worldwide, and is a contributor to the R&D100 winning SZ family of compressors and other compression libraries.  He regularly mentors students and is the early career ambassador for Argonne to the Joint Laboratory for Extreme Scale Computing.</p>
 </div>
 
 <br />
@@ -164,10 +158,17 @@ We work together with researcher all over the world to build the most advanced l
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Baixi_Sun.webp" alt="Baixi Sun" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Baixi Sun</h5>
-    </div>
-     <div style="display:flex;flex-direction:column;margin:5px;">
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Yansong Yu.jpeg" alt="Yansong Yu" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Yansong Yu</h5>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./YuxiaoLi.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Yuxiao Li</h5>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Yongfeng Qiu.jpg" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Yongfeng Qiu</h5>
   </div>
 </div>
 

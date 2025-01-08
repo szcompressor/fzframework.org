@@ -12,6 +12,33 @@ menu: {main: {weight: 20}}
 This page presents the publications about SZ from the core group as well as publications presenting other extensions, optimizations and implementations of SZ. If we missed publications, please contact us.
 
 <br />
+<text style="font-size:26px;font-weight:bold">2025</text>
+<br />
+<ul>
+<li>
+[SIGMOD'25] Longtao Zhang, Ruoyu Li, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Cappello, Kai Zhao, "LCP: Enhancing Scientific Data Management with Lossy Compression for Particles", in ACM Special Interest Group on Management of Data (SIGMOD2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Pu Jiao, Sheng Di, Mingze Xia, Xuan Wu, Jinyang Liu, Xin Liang, and Franck Cappello, "Improving the Efficiency of Interpolation-Based Scientific Data Compressors with Adaptive Quantization Index Prediction", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Shihui Song, Robert Underwood, Sheng Di, Yafan Huang, Peng Jiang, Franck Cappello, "A Memory-efficient and Computation-balanced Lossy Compressor on Wafer-Scale Engine", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Alexandra Poulos, Robert Underwood, Jon C. Calhoun, Sheng Di, and Franck Cappello, "Sensitivity and Impacts on Parallel Compression of Prediction of Lossy Compression Ratios for Scientific Data", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Alex Fallin, Noushin Azami, Sheng Di, Franck Cappello, Martin Burtscher, "Fast and Effective Lossy Compression on GPUs and CPUs with Guaranteed Error Bounds", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Grant Wilkins, Sheng Di, Robert Underwood, Jon C. Calhoun, and Franck Cappello, "To Compress or Not To Compress: Energy and Runtime Trade-Offs in Lossy Compressed I/O", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
+</li>
+<li>
+[IPDPS'25] Xuan Wu, Sheng Di, Congrong Ren, Pu Jiao, Mingze Xia, Cheng Wang, Hanqi Guo, Xin Liang, and Franck Cappello, "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025.
+</li>
+</ul>
+
+<br />
 <text style="font-size:26px;font-weight:bold">2024</text>
 <br />
 <ul>
@@ -74,6 +101,7 @@ This page presents the publications about SZ from the core group as well as publ
 <br />
 <text style="font-size:26px;font-weight:bold">2023</text>
 <br />
+<ul>
 <li>
 [HiPC'23] Arham Khan, Sheng Di, Kai Zhao, Jinyang Liu, Kyle Chaid, Ian Foster, Franck Cappello, "SECRE: Surrogate-based Error-controlled Lossy Compression Ratio Estimation Framework", in 30th edition of the IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC2023), 2023.
 </li>
@@ -181,6 +209,9 @@ This page presents the publications about SZ from the core group as well as publ
 </li>
 <li>
 [SC'22-poster-1st place of ACM SRC award] David Krasowska, Robert Underwood, Julie Bessac, Jon Calhoun, Sheng Di, Franck Cappello, "Statistical Prediction of Lossy Compression Ratios for 3D Scientific Data", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2022), 2022. 
+</li>
+<li>
+[VIS'24]Y. Li, X. Liang, B. Wang, Y. Qiu, L. Yan and H. Guo, "MSz: An Efficient Parallel Algorithm for Correcting Morse-Smale Segmentations in Error-Bounded Lossy Compressors," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2024.3456337.
 </li>
 <li>
 [VLDB’22] Sian Jin, Chengming Zhang, Jiannan Tian, Yunhe Feng, Hui Guan, Guanpeng Li, Shuaiwen Leon Song, Dingwen Tao. “COMET: A Novel Memory-Efficient Deep Learning Training Framework by Using Error-Bounded Lossy Compression.” The 48th International Conference on Very Large Data Bases (VLDB), Australia, September 5-9, 2022.
