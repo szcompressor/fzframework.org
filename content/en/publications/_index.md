@@ -16,7 +16,7 @@ This page presents the publications about SZ from the core group as well as publ
 <br />
 <ul>
 <li>
-[IPDPS'25] Longtao Zhang, Ruoyu Li, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Cappello, Kai Zhao, "LCP: Enhancing Scientific Data Management with Lossy Compression for Particles", in ACM Special Interest Group on Management of Data (SIGMOD2025), 2025. 
+[SIGMOD'25] Longtao Zhang, Ruoyu Li, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Cappello, Kai Zhao, "LCP: Enhancing Scientific Data Management with Lossy Compression for Particles", in ACM Special Interest Group on Management of Data (SIGMOD2025), 2025. 
 </li>
 <li>
 [IPDPS'25] Pu Jiao, Sheng Di, Mingze Xia, Xuan Wu, Jinyang Liu, Xin Liang, and Franck Cappello, "Improving the Efficiency of Interpolation-Based Scientific Data Compressors with Adaptive Quantization Index Prediction", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
@@ -34,7 +34,7 @@ This page presents the publications about SZ from the core group as well as publ
 [IPDPS'25] Grant Wilkins, Sheng Di, Robert Underwood, Jon C. Calhoun, and Franck Cappello, "To Compress or Not To Compress: Energy and Runtime Trade-Offs in Lossy Compressed I/O", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
 </li>
 <li>
-[IPDP'25] Xuan Wu, Sheng Di, Congrong Ren, Pu Jiao, Mingze Xia, Cheng Wang, Hanqi Guo, Xin Liang, and Franck Cappello, "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025.
+[IPDPS'25] Xuan Wu, Sheng Di, Congrong Ren, Pu Jiao, Mingze Xia, Cheng Wang, Hanqi Guo, Xin Liang, and Franck Cappello, "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025.
 </li>
 </ul>
 
