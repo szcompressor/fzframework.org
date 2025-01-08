@@ -23,19 +23,28 @@ Dates, address, contact:
 + We use Eastern Time (ET) for this workshop.
 + Host: Dr. Kai Zhao (kai.zhao@fsu.edu)
 
-Schedule TBD:
+Schedule (tentative, will be updated in February):
 
 + Day before (March. 10)
+  + 6:00 PM Dinner (paid by the attendees themselves)
 + Day 1 (March. 11)
+  + 9 AM - 12 PM: Introduction of FZ and ZF projects
+  + 12 PM - 1 PM: Working Lunch
+  + 1 PM - 5 PM: Session about current progress
 + Day 2 (March. 12)
+  + 9 AM - 12 PM: Session about usability and adoption
+  + 12 PM - 1 PM: Working Lunch
+  + 1 PM - 5 PM: Session about application integration I
 + Day 3 (March. 12)
+  + 9 AM - 12 PM: Session about application integration II
+  + 12 PM: Closing
 
 
 Hotels:
 
 March is a very busy season in Sarasota as it is a popular spring break destination. Please book your hotel as soon as possible. 
 We recommend staying at hotels that are within walking distance of the venue:
-+ Hyatt Place Sarasota/Bradenton Airport
++ Hyatt Place Sarasota/Bradenton Airport (this hotel has gov rate of $200/night)
 + Hampton Inn & Suites Sarasota/Bradenton-Airport
 + Kompose Hotel Sarasota
 + Courtyard by Marriott Sarasota Bradenton Airport
