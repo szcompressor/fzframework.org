@@ -12,8 +12,7 @@ Dates, address, contact:
 + Date: **March 11-13, 2025. 9:00 AM to 5:00 PM**
 + Address: The John and Mable Ringling Museum of Art, 5401 Bay Shore Rd, Sarasota, FL 34243
 + Meeting room: Chao Lecture Hall.
-+ **Important**: Do **NOT** use the main museum entrance. Please refer to [this map](../Feb24FLMap.pdf) for parking and
-  entrance.
++ **Important**: Do **NOT** use the main museum entrance. Please refer to [this map](../Feb24FLMap.pdf) for the correct entrance.
 + Meeting Zoom: One [Zoom link](https://fsu.zoom.us/j/92984132878) for all the sessions
 + Meeting docs: All slides can be found in
   this [shared folder](https://drive.google.com/drive/folders/1WQhCd8xJXfZDjZXLHpsbSwnIgzOJ4hfA?usp=sharing)
@@ -35,9 +34,9 @@ Schedule (tentative, will be updated in February):
   + 9 AM - 12 PM: Session about usability and adoption
   + 12 PM - 1 PM: Working Lunch
   + 1 PM - 5 PM: Session about application integration I
-+ Day 3 (March. 12)
++ Day 3 (March. 13)
   + 9 AM - 12 PM: Session about application integration II
-  + 12 PM: Closing
+  + 12 PM - 1 PM: Working Lunch and closing remarks
 
 
 Hotels:
