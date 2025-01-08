@@ -14,11 +14,11 @@ Dates, address, contact:
 + Meeting room: Chao Lecture Hall.
 + **Important**: Do **NOT** use the main museum entrance. Please refer to [this map](../Feb24FLMap.pdf) for parking and
   entrance.
-+ Meeting Zoom: One [Zoom link]() for all the sessions
++ Meeting Zoom: One [Zoom link](https://fsu.zoom.us/j/92984132878) for all the sessions
 + Meeting docs: All slides can be found in
   this [shared folder](https://drive.google.com/drive/folders/1WQhCd8xJXfZDjZXLHpsbSwnIgzOJ4hfA?usp=sharing)
 + Please fill
-  out [this form]()
+  out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdnHtYUPhaH3oWdLR-2fvOYntP0VpODKWCOrjKEZfCZ9D4KYA/viewform?usp=sharing)
   no matter you will attend in person or online)
 + We use Eastern Time (ET) for this workshop.
 + Host: Dr. Kai Zhao (kai.zhao@fsu.edu)
