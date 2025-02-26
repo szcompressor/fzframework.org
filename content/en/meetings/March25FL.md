@@ -22,20 +22,42 @@ Dates, address, contact:
 + We use Eastern Time (ET) for this workshop.
 + Host: Dr. Kai Zhao (kai.zhao@fsu.edu)
 
-Schedule (tentative, will be updated in February):
+Schedule (tentative):
 
 + Day before (March. 10)
   + 6:00 PM Dinner (paid by the attendees themselves)
 + Day 1 (March. 11)
-  + 9 AM - 12 PM: Introduction of FZ and ZF projects
-  + 12 PM - 1 PM: Working Lunch
-  + 1 PM - 5 PM: Session about current progress
+  + 9:00 AM - 9:30 PM: Warm-up 
+  + 9:30 AM - 10 AM: Introduction of FZ and ZF projects
+  + 10 AM - 11 AM: Session one  (FZ, Trust 1.1 Language and compiler)
+    + Each session follows the same time budget:
+      + The progress of the task (5 minutes)
+      + Technical presentation x2 (20 minutes x2)
+      + What’s next (5 minutes)
+      + Discussion (10 minutes)
+  + 11 AM - 11:15 AM: Break (15 minutes) 
+  + 11:15 AM - 12:15 PM: Session two (FZ, Trust 1.2 &1.3 Language and compiler)
+  + 12:15 PM - 1:15 PM: Working Lunch
+  + 1:15 PM - 2:15 PM: Session three (FZ, Trust 2.1 Module library)
+  + 2:15 PM - 3:15 PM: Session four (FZ, Trust 2.2 Module library)
+  + 3:15 PM - 3:45 PM: Break (30 minutes)
+  + 3:45 PM - 4:45 PM: Session five (FZ, Trust 2.3 Module library)
+  + 4:45 PM - 5 PM: Open discussion
 + Day 2 (March. 12)
-  + 9 AM - 12 PM: Session about usability and adoption
-  + 12 PM - 1 PM: Working Lunch
-  + 1 PM - 5 PM: Session about application integration I
+  + 9 AM - 10 PM: Session one (FZ, Thrust 3.1 Visualization)
+  + 10 AM - 11 AM: Session two (FZ, Thrust 3.2 Visualization)
+  + 11 AM - 11:15 AM : Break (15 minutes)
+  + 11:15 AM - 12:15 PM: Session three (FZ, Thrust 3.3 Visualization)
+  + 12:15 PM - 1:15 PM: Working Lunch
+  + 1:15 PM - 2:15 PM: Session three (ZF, Thrust 1)
+  + 2:15 PM - 3:15 PM: Session four (ZF, Thrust 2)
+  + 3:15 PM - 3:45 PM: Break (30 minutes)
+  + 3:45 PM - 4:45 PM: Session five (ZF, Thrust 3)
+  + 4:45 PM - 5 PM: Open discussion
 + Day 3 (March. 13)
-  + 9 AM - 12 PM: Session about application integration II
+  + 9 AM - 10 PM: Session one (discussion about applications)
+  + 10 AM - 11 AM: Session two (discussion about FZ and ZF)
+  + 11 AM - 12 PM: Session three (open discussion)
   + 12 PM - 1 PM: Working Lunch and closing remarks
 
 
