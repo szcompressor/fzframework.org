@@ -1,11 +1,11 @@
 ---
-title: FZ+ZF workshop at Sarasota March 2025
+title: FZ ZF Joint workshop at Sarasota March 2025
 date: 2024-11-27
 description: >
 
 ---
 
-Thank you for considering attending the FZ+ZF workshop at Sarasota!
+Thank you for considering attending the FZ ZF Joint workshop at Sarasota!
 
 Dates, address, contact:
 
