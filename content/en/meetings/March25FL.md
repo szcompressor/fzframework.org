@@ -22,7 +22,7 @@ Dates, address, contact:
 + We use Eastern Time (ET) for this workshop.
 + Host: Dr. Kai Zhao (kai.zhao@fsu.edu)
 
-Schedule:
+**Schedule**:
 The up-to-date schedule can be found [here](https://docs.google.com/presentation/d/1KVm9EtNz1m_CdyZcZut2TOnAfFG19SF5/edit#slide=id.g33dc39f11b1_0_0)
 
 Hotels:
@@ -44,4 +44,5 @@ here is a link of cities with direct flights to SRQ airport: https://www.flightc
 + Punta Gorda Airport (PGD): 1 hour driving to the museum 
 + Parking is free in the museum parking lot.
 
+Photo:
 <img  src="../March25FL.jpeg" alt="" width="1600">
