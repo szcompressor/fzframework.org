@@ -43,3 +43,5 @@ here is a link of cities with direct flights to SRQ airport: https://www.flightc
 + Clearwater airport (PIE): 1 hour driving to the museum
 + Punta Gorda Airport (PGD): 1 hour driving to the museum 
 + Parking is free in the museum parking lot.
+
+<img  src="../March25FL.jpeg" alt="" width="1600">
