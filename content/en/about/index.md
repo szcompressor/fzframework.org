@@ -123,57 +123,77 @@ We work together with researcher all over the world to build the most advanced l
 <br />
 
 <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));gap: 10px;max-width: 100%;">
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Jiannan.webp" alt="Jiannan Tian" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Jiannan Tian</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Boyuan.webp" alt="Boyuan Zhang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Boyuan Zhang</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Jinyang.png" alt="Jinyang Liu" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Jinyang Liu</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Yafan.png" alt="Yafan Huang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Yafan Huang</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./jiajun.jpg" alt="Jiajun Huang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Jiajun Huang</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Milan.png" alt="Milan Shah" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Milan Shah</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Hasan.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Md Hasanur Rahman</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
-    <img src="./LongTao.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <img src="./LongTao.png" alt="Longtao Zhang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Longtao Zhang</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Baixi_Sun.webp" alt="Baixi Sun" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Baixi Sun</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Yansong Yu.jpeg" alt="Yansong Yu" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Yansong Yu</h5>
+  </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
-    <img src="./YuxiaoLi.png" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <img src="./YuxiaoLi.jpg" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Yuxiao Li</h5>
   </div>
+
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Yongfeng Qiu.jpg" alt="Md Hasanur Rahman" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Yongfeng Qiu</h5>
   </div>
+
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./skyler-ruiter.jpg" alt="Skyler Ruiter" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Skyler Ruiter</h5>
+  </div>
+  
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Pushkal.jpeg" alt="Pushkal" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Pushkal Mudhapaka</h5>
   </div>
+  
 </div>
 
 <!-- {{% blocks/section %}}
