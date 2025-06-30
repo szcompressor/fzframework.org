@@ -188,7 +188,12 @@ We work together with researcher all over the world to build the most advanced l
     <img src="./skyler-ruiter.jpg" alt="Skyler Ruiter" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Skyler Ruiter</h5>
   </div>
-
+  
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Pushkal.jpeg" alt="Pushkal" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Pushkal Mudhapaka</h5>
+  </div>
+  
 </div>
 
 <!-- {{% blocks/section %}}
