@@ -16,7 +16,40 @@ This page presents the publications about SZ from the core group as well as publ
 <br />
 <ul>
 <li>
-<strong>SIGMOD'25</strong> Longtao Zhang, Ruoyu Li, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Cappello, Kai Zhao, "LCP: Enhancing Scientific Data Management with Lossy Compression for Particles", in ACM Special Interest Group on Management of Data (SIGMOD2025), 2025. 
+<strong>TPDS'25</strong> Yuanjian Liu, Sheng Di, Jiajun Huang, Zhaorui Zhang, Kyle Char, Ian Foster, "Ocelot: An Interactive, Efficient Distributed Compression-As-a-Service Platform With Optimized Data Compression Techniques", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2025.
+</li>
+<li>
+<strong>SC'25</strong> Franck Cappello, Robert Underwood, Yuri Alexeev, Alison Baker, Ebru Bozdag, Martin Burtscher, Kyle Chard, Sheng Di, Kyle Gerad Felker, et al, "What to Support: When You are Compressing: The State of Practice, Gaps, and Opportunities for Scientific Data Compression", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
+</li>
+<li>
+<strong>SC'25</strong> Yafan Huang, Sheng Di, Guanpeng Li, Franck Cappello, "GPU Lossy Compression for HPC Can Be Versatile and Ultra-Fast", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
+</li>
+<li>
+<strong>SC'25</strong> Shixun Wu, Jinwen Pan, Jinyang Liu, Jiannan Tian, Ziwei Qiu, Jiajun Huang, Kai Zhao, Xin Liang, Sheng Di, Zizhong Chen, Franck Cappello, "Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
+</li>
+<li>
+<strong>SC'25</strong> Yafan Huang, Sheng Di, Robert Underwood, Peco Myint, Miaoqi Chu, Guanpeng Li, Nicholas Schwarz, Franck Cappello, "lsCOMP: Efficient Light Source Compression", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025. 
+</li>
+<li>
+<strong>VLDB'25</strong> Jinyang Liu, Pu Jiao, Kai Zhao, Xin Liang, Sheng Di, and Franck Cappello, "QPET: A Versatile and Portable Quantity-of-Interest-preservation Framework for Error-Bounded Lossy Compression", in 51st International Conference on Very Large Database (VLDB 2025), 2025.
+</li>
+<li>
+<strong>TPDS'25</strong> Zhaorui Zhang, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharthi, Jiannan Cao, and Franck Cappello, "FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2025. 
+</li>
+<li>
+<strong>CSUR'25</strong> Sheng Di, Jinyang Liu, Kai Zhao, Xin Liang, Robert Underwood, et al. "A Survey on Error-Bounded Lossy Compression for Scientific Datasets", ACM Computing Survey (ACM CSUR), 2025.
+</li>
+<li>
+<strong>HPDC'25</strong> Jiajun Huang, Sheng Di, Yafan Huang, Zizhong Chen, Franck Cappello, Yanfei Guo and Rajeev Thakur, "ghZCCL: Advancing GPU-aware Collective Communications with Homomorphic Compression", in International Conference on Supercomputing (ACM ICS2025), 2025. <strong>(best paper nomination)</strong>
+</li>
+<li>
+<strong>ICS'25</strong> Jiajun Huang, Sheng Di, Yafan Huang, Zizhong Chen, Franck Cappello, Yanfei Guo and Rajeev Thakur, "ghZCCL: Advancing GPU-aware Collective Communications with Homomorphic Compression", in International Conference on Supercomputing (ACM ICS2025), 2025.
+</li>
+<li>
+<strong>ICS'25</strong> Boyuan Zhang, Yafan Huang, Sheng Di, Fengguang Song, Guanpeng Li, and Franck Cappello, "Pushing the Limits of GPU Lossy Compression: A Hierarchical Delta Approach", in International Conference on Supercomputing (ACM ICS2025), 2025. <strong>(best paper nomination)</strong>
+</li>
+<li>
+<strong>SIGMOD'25</strong> Longtao Zhang, Ruoyu Li, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Cappello, Kai Zhao, "LCP: Enhancing Scientific Data Management with Lossy Compression for Particles", in ACM Special Interest Group on Management of Data (SIGMOD2025), 2025.
 </li>
 <li>
 <strong>IPDPS'25</strong> Pu Jiao, Sheng Di, Mingze Xia, Xuan Wu, Jinyang Liu, Xin Liang, and Franck Cappello, "Improving the Efficiency of Interpolation-Based Scientific Data Compressors with Adaptive Quantization Index Prediction", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
@@ -34,7 +67,13 @@ This page presents the publications about SZ from the core group as well as publ
 <strong>IPDPS'25</strong> Grant Wilkins, Sheng Di, Robert Underwood, Jon C. Calhoun, and Franck Cappello, "To Compress or Not To Compress: Energy and Runtime Trade-Offs in Lossy Compressed I/O", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
 </li>
 <li>
-<strong>IPDPS'25</strong> Xuan Wu, Sheng Di, Congrong Ren, Pu Jiao, Mingze Xia, Cheng Wang, Hanqi Guo, Xin Liang, and Franck Cappello, "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025.
+<strong>IPDPS'25</strong> Xuan Wu, Sheng Di, Congrong Ren, Pu Jiao, Mingze Xia, Cheng Wang, Hanqi Guo, Xin Liang, and Franck Cappello, "Enabling Efficient Error-controlled Lossy Compression for Unstructured Scientific Data", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. (<strong>best paper award</strong>)
+</li>
+<li>
+<strong>IPDPS'25 [poster]</strong> Md Hasanur Rahman, Sheng Di, Guanpeng Li, and Franck Cappello, "Characterizing Spatial Data Traits for Modeling Generic Lossy Rate-Distortion Quality", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. [poster]
+</li>
+<li>
+<strong>IPDPS'25 [poster]</strong> Yongfeng Qiu, Yuxiao Li, Xin Liang, Yafan Huang, Guanpeng Li, Sheng Di, Franck Cappello, Hanqi Guo, "Lossy Parallel Visualization of Large-scale Volume Data with Error-bounded Image Compositing", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025.
 </li>
 </ul>
 
