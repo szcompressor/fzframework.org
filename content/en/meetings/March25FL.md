@@ -1,11 +1,11 @@
 ---
-title: FZ+ZF workshop at Sarasota March 2025
+title: FZ ZF Joint workshop at Sarasota March 2025
 date: 2024-11-27
 description: >
 
 ---
 
-Thank you for considering attending the FZ+ZF workshop at Sarasota!
+Thank you for considering attending the FZ ZF Joint workshop at Sarasota!
 
 Dates, address, contact:
 
@@ -22,22 +22,8 @@ Dates, address, contact:
 + We use Eastern Time (ET) for this workshop.
 + Host: Dr. Kai Zhao (kai.zhao@fsu.edu)
 
-Schedule (tentative, will be updated in February):
-
-+ Day before (March. 10)
-  + 6:00 PM Dinner (paid by the attendees themselves)
-+ Day 1 (March. 11)
-  + 9 AM - 12 PM: Introduction of FZ and ZF projects
-  + 12 PM - 1 PM: Working Lunch
-  + 1 PM - 5 PM: Session about current progress
-+ Day 2 (March. 12)
-  + 9 AM - 12 PM: Session about usability and adoption
-  + 12 PM - 1 PM: Working Lunch
-  + 1 PM - 5 PM: Session about application integration I
-+ Day 3 (March. 13)
-  + 9 AM - 12 PM: Session about application integration II
-  + 12 PM - 1 PM: Working Lunch and closing remarks
-
+**Schedule**:
+The up-to-date schedule can be found [here](https://docs.google.com/presentation/d/1KVm9EtNz1m_CdyZcZut2TOnAfFG19SF5/edit#slide=id.g33dc39f11b1_0_0)
 
 Hotels:
 
@@ -57,3 +43,6 @@ here is a link of cities with direct flights to SRQ airport: https://www.flightc
 + Clearwater airport (PIE): 1 hour driving to the museum
 + Punta Gorda Airport (PGD): 1 hour driving to the museum 
 + Parking is free in the museum parking lot.
+
+Photo:
+<img  src="../March25FL.jpeg" alt="" width="1600">
