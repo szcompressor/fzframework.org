@@ -1,6 +1,6 @@
 ---
 title: We have 4 papers accepted by IEEE/ACM SC 2025.
-date: 2024-06-12
+date: 2025-06-20
 description: >
 	We have 6 papers accepted by SC 2025.
 ---

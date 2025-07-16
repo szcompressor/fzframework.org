@@ -1,6 +1,6 @@
 ---
 title: We have 6 papers accepted by IPDPS 2025.
-date: 2024-06-12
+date: 2025-06-12
 description: >
 	We have 6 papers accepted by IPDPS 2025.
 ---
