@@ -40,7 +40,7 @@ This page presents the publications about SZ from the core group as well as publ
 <strong>CSUR'25</strong> Sheng Di, Jinyang Liu, Kai Zhao, Xin Liang, Robert Underwood, et al. "A Survey on Error-Bounded Lossy Compression for Scientific Datasets", ACM Computing Survey (ACM CSUR), 2025.
 </li>
 <li>
-<strong>HPDC'25</strong> Jiajun Huang, Sheng Di, Yafan Huang, Zizhong Chen, Franck Cappello, Yanfei Guo and Rajeev Thakur, "ghZCCL: Advancing GPU-aware Collective Communications with Homomorphic Compression", in International Conference on Supercomputing (ACM ICS2025), 2025. <strong>(best paper nomination)</strong>
+<strong>HPDC'25</strong> Zhuoxun Yang, Sheng Di, Longtao Zhang, Ruoyu Li, Ximiao Li, Jiajun Huang, Jinyang Liu, Franck Cappello, and Kai Zhao, "IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications", in International 34th Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC2025), 2025. <strong>(best paper nomination)</strong>
 </li>
 <li>
 <strong>ICS'25</strong> Jiajun Huang, Sheng Di, Yafan Huang, Zizhong Chen, Franck Cappello, Yanfei Guo and Rajeev Thakur, "ghZCCL: Advancing GPU-aware Collective Communications with Homomorphic Compression", in International Conference on Supercomputing (ACM ICS2025), 2025.
