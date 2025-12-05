@@ -1,6 +1,6 @@
 ---
-title: FZ ZF Joint workshop at USF March 2025
-date: 2025-03-17
+title: FZ ZF Joint workshop at USF March 2026
+date: 2026-03-17
 description: >
 
 ---
@@ -9,7 +9,7 @@ Thank you for considering attending the FZ/ZF Joint workshop at the University o
 
 Dates, address, contact:
 
-+ Date: **March 17-19, 2025**
++ Date: **March 17-19, 2026**
 + Address: [USF Marshall Student Center, 4103 USF Cedar Circle, Tampa, FL 33620](https://maps.app.goo.gl/sBoRwfSa4C6EQELe8)
 + Room: 2708
 + Host: Dr. Jiajun Huang (jiajunhuang@usf.edu)
