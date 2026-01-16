@@ -19,6 +19,9 @@ This page presents the publications about SZ from the core group as well as publ
 <strong>TPDS'25</strong> Yuanjian Liu, Sheng Di, Jiajun Huang, Zhaorui Zhang, Kyle Char, Ian Foster, "Ocelot: An Interactive, Efficient Distributed Compression-As-a-Service Platform With Optimized Data Compression Techniques", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2025.
 </li>
 <li>
+<strong>DRBSD'25</strong> Skyler Ruiter, Jiannan Tian, Fengguang Song, "FZModules: A Heterogeneous Computing Framework for Customizable Scientific Data Compression Pipelines", IEEE/ACM The 11th International Workshop on Data Analysis and Reduction for Big Scientific Data, in conjunction with The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025),2025.
+</li>
+<li>
 <strong>SC'25</strong> Franck Cappello, Robert Underwood, Yuri Alexeev, Alison Baker, Ebru Bozdag, Martin Burtscher, Kyle Chard, Sheng Di, Kyle Gerad Felker, et al, "What to Support: When You are Compressing: The State of Practice, Gaps, and Opportunities for Scientific Data Compression", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
 </li>
 <li>
@@ -178,7 +181,7 @@ This page presents the publications about SZ from the core group as well as publ
 <strong>SC'23 poster</strong> Avinash Kethineedi, Jon C. Calhoun, Robert Underwood, Sheng Di, Franck Cappello, "ROI Preservation in Streaming Lossy Compression", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023. [poster].
 </li>
 <li>
-<strong>DRBSD'24</strong> Robert R. Underwood, Sheng Di, Sian Jin, Md Hasanur Rahman, Arham Khan, Franck Cappello, "LibPressio-Predict: Flexible and Fast Infrastructure for Inferring Compression Performance", in Proceedings of the 7th International Workshop on Data Reduction for Big Scientific Data (DRBSD-9), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023.
+<strong>DRBSD'23</strong> Robert R. Underwood, Sheng Di, Sian Jin, Md Hasanur Rahman, Arham Khan, Franck Cappello, "LibPressio-Predict: Flexible and Fast Infrastructure for Inferring Compression Performance", in Proceedings of the 7th International Workshop on Data Reduction for Big Scientific Data (DRBSD-9), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023.
 </li>
 <li>
 <strong>ICS'23</strong> Boyuan Zhang, Sheng Di, Xiaodong Yu, Martin Swany, Dingwen Tao, Franck Cappello, "GPULZ: Optimizing LZSS Lossless Compression for Multi-byte Data on Modern GPUs", in International Conference on Supercomputing (ACM ICS2023), 2023.
