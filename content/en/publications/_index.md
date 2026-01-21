@@ -16,7 +16,7 @@ This page presents the publications about SZ from the core group as well as publ
 <br />
 <ul>
 <li>
-<strong>TPDS'25</strong> Yuanjian Liu, Sheng Di, Jiajun Huang, Zhaorui Zhang, Kyle Char, Ian Foster, "<u>Ocelot: An Interactive, Efficient Distributed Compression-As-a-Service Platform With Optimized Data Compression Techniques</u>", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2025.
+<strong>TPDS</strong> Yuanjian Liu, Sheng Di, Jiajun Huang, Zhaorui Zhang, Kyle Char, Ian Foster, "<u>Ocelot: An Interactive, Efficient Distributed Compression-As-a-Service Platform With Optimized Data Compression Techniques</u>", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2025.
 </li>
 <li>
 <strong>DRBSD-11</strong> Skyler Ruiter, Jiannan Tian, Fengguang Song, "<u>FZModules: A Heterogeneous Computing Framework for Customizable Scientific Data Compression Pipelines</u>", IEEE/ACM The 11th International Workshop on Data Analysis and Reduction for Big Scientific Data, in conjunction with The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025),2025. <strong>(best short paper award)</strong>
@@ -37,7 +37,7 @@ This page presents the publications about SZ from the core group as well as publ
 <strong>VLDB'25</strong> Jinyang Liu, Pu Jiao, Kai Zhao, Xin Liang, Sheng Di, and Franck Cappello, "<u>QPET: A Versatile and Portable Quantity-of-Interest-preservation Framework for Error-Bounded Lossy Compression</u>", in 51st International Conference on Very Large Database (VLDB 2025), 2025.
 </li>
 <li>
-<strong>TPDS'25</strong> Zhaorui Zhang, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharthi, Jiannan Cao, and Franck Cappello, "<u>FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression</u>", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2025. 
+<strong>TPDS</strong> Zhaorui Zhang, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharthi, Jiannan Cao, and Franck Cappello, "<u>FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression</u>", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2025. 
 </li>
 <li>
 <strong>CSUR'25</strong> Sheng Di, Jinyang Liu, Kai Zhao, Xin Liang, Robert Underwood, et al. "<u>A Survey on Error-Bounded Lossy Compression for Scientific Datasets</u>", ACM Computing Survey (ACM CSUR), 2025.
@@ -166,13 +166,13 @@ This page presents the publications about SZ from the core group as well as publ
 <strong>CLUSTER'23 [poster]</strong> Arham Khan, Sheng Di, Kai Zhao, Jinyang Liu, Kyle Chard, Ian Foster, Franck Cappello, "<u>An Efficient and Accurate Compression Ratio Estimation Model for SZx</u>", in IEEE International Conference on Cluster Computing(IEEE CLUSTER2023), 2023. <strong>(best poster finalist)</strong>
 </li>
 <li>
+<strong>Bigdata'23</strong> Jinyang Liu, Sheng Di, Sian Jin, Kai Zhao, Xin Liang, Zizhong Chen, Franck Cappello, "<u>Scientific Error-bounded Lossy Compression with Super-resolution Neural Networks</u>", in conjunction with IEEE International Conference on Big Data (IEEE BigData23), 2023.
+</li>
+<li>
 <strong>SC'23</strong> Yafan Huang, Sheng Di, Xiaodong Yu, Guanpeng Li, Franck Cappello, "<u>cuSZp: An Ultra-fast GPU Error-bounded Lossy Compression Framework with Optimized End-to-End Performance</u>", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023.
 </li>
 <li>
 <strong>SC'23</strong> Daoce Wang, Jesus Pulido, Jiannan Tian, Sian Jin, Houjun Tang, Jean Sexton, Sheng Di, Kai Zhao, Bo Fang, Zarija Lukic, Franck Cappello, James Ahrens, Dingwen Tao, "<u>AMRIC: A Novel In Situ Lossy Compression Framework for Efficient I/O in Adaptive Mesh Refinement Applications</u>", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2023), 2023.
-</li>
-<li>
-<strong>Bigdata'23</strong> Jinyang Liu, Sheng Di, Sian Jin, Kai Zhao, Xin Liang, Zizhong Chen, Franck Cappello, "<u>Scientific Error-bounded Lossy Compression with Super-resolution Neural Networks</u>", in conjunction with IEEE International Conference on Big Data (IEEE BigData23), 2023.
 </li>
 <li>
 <strong>IWBDR'23</strong> Jiajun Huang, Jinyang Liu, Sheng Di, Yujia Zhai, Shixun Wu, Kai Zhao, Zizhong Chen, Yanfei Guo, Franck Cappello, "<u>Exploring Wavelet Transform Usages for Error-bounded Scientific Data Compression</u>", International Workshop on Big Data Reduction (IEEE IWBDR23) in conjunction with IEEE International Conference on Big Data (IEEE BigData23), 2023.
@@ -235,10 +235,13 @@ This page presents the publications about SZ from the core group as well as publ
 <strong>MASCOTS'22</strong> Griffin Dube, Jiannan Tian, Sheng Di, Dingwen Tao, Jon C. Calhoun, Franck Cappello, "<u>Efficient Error-Bounded Lossy Compression for CPU Architectures</u>", 30th International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (IEEE MASCOTS 2022), Nice, France, 2022.
 </li>
 <li>
-<strong>TBD'22</strong> Xin Liang, Kai Zhao, Sheng Di, Sihuan Li, Robert Underwood, Ali M. Gok, Jiannan Tian, Junjing Deng, Jon C. Calhoun, Dingwen Tao, Zizhong Chen, Franck Cappello, "<u>SZ3: A Modular Framework for Composing Prediction-Based Error-Bounded Lossy Compressors</u>", IEEE Transactions on Big Data (IEEE TBD), 2022.
+<strong>TBD</strong> Xin Liang, Kai Zhao, Sheng Di, Sihuan Li, Robert Underwood, Ali M. Gok, Jiannan Tian, Junjing Deng, Jon C. Calhoun, Dingwen Tao, Zizhong Chen, Franck Cappello, "<u>SZ3: A Modular Framework for Composing Prediction-Based Error-Bounded Lossy Compressors</u>", IEEE Transactions on Big Data (IEEE TBD), 2022.
 </li>
 <li>
-<strong>TPDS'22</strong> Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Cheng Wang, Kyle Chard, Dingwen Tao, Ian Foster, Franck Cappello, "<u>Optimizing Error-Bounded Lossy Compression for Scientific Data with Diverse Constraints</u>", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2022.
+<strong>TPDS</strong> Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Cheng Wang, Kyle Chard, Dingwen Tao, Ian Foster, Franck Cappello, "<u>Optimizing Error-Bounded Lossy Compression for Scientific Data with Diverse Constraints</u>", in IEEE Transactions on Distributed and Computer Systems (TPDS), 2022.
+</li>
+<li>
+<strong>TPDS</strong> Robert Underwood, Jon C. Calhoun, Sheng Di, Amy Apon, Franck Cappello. "<u>OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration</u>." IEEE Transactions on Distributed and Computer Systems (TPDS), 2022.
 </li>
 <li>
 <strong>CLUSTER'22</strong> Ruiwen Shan, Sheng Di, Jon C. Calhoun, Franck Cappello, "<u>Exploring Light-weight Cryptography for Efficient and Secure Lossy Data Compression</u>", in IEEE CLUSTER2022, 2022.
@@ -248,6 +251,9 @@ This page presents the publications about SZ from the core group as well as publ
 </li>
 <li>
 <strong>SC'22</strong> Jinyang Liu, Sheng Di, Kai Zhao, Xin Liang, Zizhong Chen, Franck Cappello, "<u>Dynamic Quality Metric Oriented Error Bounded Lossy Compression for Scientific Datasets</u>", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2022), 2022.
+</li>
+<li>
+<strong>SC’22</strong> Sian Jin, Dingwen Tao, Houjun Tang, Sheng Di, Suren Byna, Zarija Lukic, and Franck Cappello. “Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5.” The International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2022.
 </li>
 <li>
 <strong>SC'22 [poster]</strong> Milan Shah, Xiaodong Yu, Sheng Di, Franck Cappello, Michela Becchi, "<u>Compressing Quantum Circuit Simulation Tensor Data</u>", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2022), 2022. <strong>(2nd place of ACM SRC award)</strong>
@@ -275,15 +281,6 @@ This page presents the publications about SZ from the core group as well as publ
 </li>
 <li>
 <strong>HPDC'22</strong> Daoce Wang, Jesus Pulido, Pascal Grosset, Jiannan Tian, James Ahrens, Dingwen Tao. "<u>Optimizing Error-Bounded Lossy Compression for Three Dimensional Adaptive Mesh Refinement Simulations</u>." The 31st ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2022.
-</li>
-<li>
-<strong>SC’22</strong> Sian Jin, Dingwen Tao, Houjun Tang, Sheng Di, Suren Byna, Zarija Lukic, and Franck Cappello. “Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5.” The International Conference for High Performance Computing, Networking, Storage and Analysis (SC), 2022.
-</li>
-<li>
-<strong>TPDS</strong> Robert Underwood, Jon C. Calhoun, Sheng Di, Amy Apon, Franck Cappello. "<u>OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration</u>." IEEE Transactions on Distributed and Computer Systems (TPDS), 2022.
-</li>
-<li>
-<strong>TPDS</strong> Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Cheng Wang, Kyle Chard, Dingwen Tao, Ian Foster, and Franck Cappello. "<u>Optimizing Error-Bounded Lossy Compression for Scientific Data with Diverse Constraints</u>." IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022.
 </li>
 </ul>
 </br>
