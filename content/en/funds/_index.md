@@ -3,7 +3,7 @@ title: Funds
 menu: {main: {weight: 20}}
 ---
 
-{{< blocks/cover title="Sponsors" image_anchor="top" height="full">}}
+{{< blocks/cover title="Sponsors" image_anchor="top" height="auto">}}
 
 <div>
     <div>
