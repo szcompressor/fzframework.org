@@ -9,7 +9,7 @@ Thank you for considering attending the FZ/ZF Joint workshop at the University o
 
 Dates, address, contact:
 
-+ Date: **March 17-19, 2026**
++ Date: **March 17-18, 2026**
 + Address: [USF Marshall Student Center, 4103 USF Cedar Circle, Tampa, FL 33620](https://maps.app.goo.gl/sBoRwfSa4C6EQELe8)
 + Room: 2708
 + Host: Dr. Jiajun Huang (jiajunhuang@usf.edu)
@@ -24,7 +24,7 @@ Dates, address, contact:
 
 Schedule is subject to change.
 
-## March 17: ML/AI with Application Teams
+<!-- ## March 17: ML/AI with Application Teams
 
 ### Morning: Application Teams Needs
 + **09:00 AM** Welcome and Logistics
@@ -32,15 +32,15 @@ Schedule is subject to change.
 
 ### Afternoon: Interviews & AI on Compression
 + **13:30 PM** Interviews with Teams (1/4 day)
-+ **15:30 PM** AI Related Work on Compression (1/4 day)
++ **15:30 PM** AI Related Work on Compression (1/4 day) -->
 
-## March 18: FZ Project
+## March 17: FZ Project
 
 ### Morning
-+ **09:00 AM** FZ Thrust 1 (1h 15m)
++ **09:30 AM** FZ Thrust 1 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
-+ **10:15 AM** Break
-+ **10:30 AM** FZ Thrust 2 (1h 15m)
++ **10:30 AM** Break
++ **10:45 AM** FZ Thrust 2 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
 
 ### Afternoon
@@ -49,7 +49,7 @@ Schedule is subject to change.
 + **14:45 PM** Break
 + **15:00 PM** Open Session (Discussion, Other Projects, etc.)
 
-## March 19: ZF Project
+## March 18: ZF Project
 
 ### Morning
 + **09:00 AM** ZF Thrust 1 (1h 15m)
