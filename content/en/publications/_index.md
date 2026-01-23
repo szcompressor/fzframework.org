@@ -470,7 +470,7 @@ This page presents the publications about SZ from the core group as well as publ
 <ul>
 <li>
 <strong>IPDPS'16</strong> Sheng Di and Franck Cappello. "<u>Fast error-bounded lossy HPC data compression with SZ.</u>" 2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 730-739. IEEE, 2016.
-<a href="http://dx.doi.org/10.1109/IPDPS.2016.11" target="_blank">DOI</a>
+<!-- <a href="http://dx.doi.org/10.1109/IPDPS.2016.11" target="_blank">DOI</a> -->
 </li>
 </ul>
 <br />
