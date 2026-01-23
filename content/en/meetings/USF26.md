@@ -82,7 +82,7 @@ We recommend staying at hotels that are within walking distance of the venue:
 *   **Home2 Suites by Hilton Tampa USF** (11606 McKinley Dr, Tampa, FL 33612)
 
 ## Food
-*   **Breakfast**: Not provided. StartBucks and Panera Bread are on campus.
+*   **Breakfast**: Not provided. StarBucks and Panera Bread are on campus.
 *   **Lunch**: Not provided. There are some restaurants (e.g., Panera Bread) in the same building, you may order on your own.
 *   **Dinner**: Not provided.
 
