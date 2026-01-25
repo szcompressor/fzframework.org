@@ -9,7 +9,7 @@ Thank you for considering attending the FZ/ZF Joint workshop at the University o
 
 Dates, address, contact:
 
-+ Date: **March 17-19, 2026**
++ Date: **March 17-18, 2026**
 + Address: [USF Marshall Student Center, 4103 USF Cedar Circle, Tampa, FL 33620](https://maps.app.goo.gl/sBoRwfSa4C6EQELe8)
 + Room: 2708
 + Host: Dr. Jiajun Huang (jiajunhuang@usf.edu)
