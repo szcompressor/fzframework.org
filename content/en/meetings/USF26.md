@@ -67,7 +67,7 @@ Schedule is subject to change.
 ### Breakouts
 + Breakouts for Outside projects (e.g. Jiannan, Xin, etc…)
 
-## March 19: USF CS visit (optional)
+## March 16, March 19: USF CS visit (optional)
 + Have a visit to the USF CS department
 + Meetings with Jiajun Huang and other faculty to discuss about collaboration.
 
