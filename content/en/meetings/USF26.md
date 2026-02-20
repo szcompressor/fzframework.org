@@ -68,7 +68,7 @@ Schedule is subject to change.
 + Breakouts for Outside projects (e.g. Jiannan, Xin, etc…)
 
 ## March 16, March 19: USF CS visit (optional)
-+ Have a visit to the USF CS department
++ Have a visit to the USF Bellini College of Artificial Intelligence, Cybersecurity and Computing
 + Meetings with Jiajun Huang and other faculty to discuss about collaboration.
 
 
