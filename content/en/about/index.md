@@ -110,6 +110,18 @@ We work together with researcher all over the world to build the most advanced l
     <img src="./Jon.jpg" alt="Jon Calhoun" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Jon Calhoun (Clemson U.)</h5>
   </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Jiannan.webp" alt="Jiannan Tian" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Jiannan Tian (Oakland U.)</h5>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./Jinyang.png" alt="Jinyang Liu" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Jinyang Liu (U. Houston)</h5>
+  </div>
+  <div style="display:flex;flex-direction:column;margin:5px;">
+    <img src="./jiajun.jpg" alt="Jiajun Huang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
+    <h5 style="width:150px;align-self:center">Jiajun Huang (U. South Florida)</h5>
+  </div>
 </div>
 
 <br />
@@ -124,10 +136,6 @@ We work together with researcher all over the world to build the most advanced l
 
 <div style="display: grid;grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));gap: 10px;max-width: 100%;">
 
-  <div style="display:flex;flex-direction:column;margin:5px;">
-    <img src="./Jiannan.webp" alt="Jiannan Tian" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
-    <h5 style="width:150px;align-self:center">Jiannan Tian</h5>
-  </div>
 
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Boyuan.webp" alt="Boyuan Zhang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
@@ -135,18 +143,8 @@ We work together with researcher all over the world to build the most advanced l
   </div>
 
   <div style="display:flex;flex-direction:column;margin:5px;">
-    <img src="./Jinyang.png" alt="Jinyang Liu" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
-    <h5 style="width:150px;align-self:center">Jinyang Liu</h5>
-  </div>
-
-  <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./Yafan.png" alt="Yafan Huang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Yafan Huang</h5>
-  </div>
-
-  <div style="display:flex;flex-direction:column;margin:5px;">
-    <img src="./jiajun.jpg" alt="Jiajun Huang" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
-    <h5 style="width:150px;align-self:center">Jiajun Huang</h5>
   </div>
 
   <div style="display:flex;flex-direction:column;margin:5px;">
@@ -187,11 +185,6 @@ We work together with researcher all over the world to build the most advanced l
   <div style="display:flex;flex-direction:column;margin:5px;">
     <img src="./skyler-ruiter.jpg" alt="Skyler Ruiter" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
     <h5 style="width:150px;align-self:center">Skyler Ruiter</h5>
-  </div>
-  
-  <div style="display:flex;flex-direction:column;margin:5px;">
-    <img src="./Pushkal.jpeg" alt="Pushkal" style="float:left;width:200px;height: 200px;object-fit: cover;overflow:hidden;">
-    <h5 style="width:150px;align-self:center">Pushkal Mudhapaka</h5>
   </div>
   
 </div>
