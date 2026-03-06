@@ -2,12 +2,12 @@
 title: FZ ZF Joint workshop at USF March 2026
 date: 2025-12-01
 description: >
-
+  FZ/ZF Joint workshop at the University of South Florida, March 17-18, 2026.
 ---
 
 Thank you for considering attending the FZ/ZF Joint workshop at the University of South Florida in Tampa, Florida!
 
-Dates, address, contact:
+## Dates, Address, Contact
 
 + Date: **March 17-18, 2026**
 + Address: [USF Marshall Student Center, 4103 USF Cedar Circle, Tampa, FL 33620](https://maps.app.goo.gl/sBoRwfSa4C6EQELe8)
@@ -19,6 +19,8 @@ Dates, address, contact:
 + Google Form (food, restrictions): [TBD]
 + Google Form (proposed presentations): [TBD]
 + We use Eastern Time (ET) for this workshop.
+
+---
 
 # Tentative Schedule
 
@@ -78,24 +80,27 @@ Schedule is subject to change.
 ### Breakouts
 + Breakouts for outside projects during Open Session (e.g., Jiannan, Xin, etc.)
 
+---
+
 ## March 16, March 19: USF AI College Visit (optional)
 + Have a visit to the USF Bellini College of Artificial Intelligence, Cybersecurity and Computing
-+ Meetings with Jiajun Huang and other faculty to discuss about collaboration.
++ Meetings with Jiajun Huang and other faculty to discuss collaboration.
 
+---
 
 # Logistics
 
 ## Hotels
 March is a very busy season in Tampa as it is a popular spring break destination. Please book your hotel as soon as possible. 
 We recommend staying at hotels that are within walking distance of the venue:
-*   **Embassy Suites by Hilton Tampa USF** (3705 Spectrum Blvd, Tampa, FL 33612)
-*   **Holiday Inn Tampa North by IHG** (3751 E Fowler Ave, Tampa, FL 33612)
-*   **Home2 Suites by Hilton Tampa USF** (11606 McKinley Dr, Tampa, FL 33612)
++ **Embassy Suites by Hilton Tampa USF** (3705 Spectrum Blvd, Tampa, FL 33612)
++ **Holiday Inn Tampa North by IHG** (3751 E Fowler Ave, Tampa, FL 33612)
++ **Home2 Suites by Hilton Tampa USF** (11606 McKinley Dr, Tampa, FL 33612)
 
 ## Food
-*   **Breakfast**: Not provided. StarBucks and Panera Bread are on campus.
-*   **Lunch**: Not provided. There are some restaurants (e.g., Panera Bread) in the same building, you may order on your own.
-*   **Dinner**: Not provided.
++ **Breakfast**: Not provided. Starbucks and Panera Bread are on campus.
++ **Lunch**: Not provided. There are some restaurants (e.g., Panera Bread) in the same building, you may order on your own.
++ **Dinner**: Not provided.
 
 ## Transportation
 
