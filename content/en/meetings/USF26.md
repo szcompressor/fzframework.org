@@ -2,12 +2,12 @@
 title: FZ ZF Joint workshop at USF March 2026
 date: 2025-12-01
 description: >
-
+  FZ/ZF Joint workshop at the University of South Florida, March 17-18, 2026.
 ---
 
 Thank you for considering attending the FZ/ZF Joint workshop at the University of South Florida in Tampa, Florida!
 
-Dates, address, contact:
+## Dates, Address, Contact
 
 + Date: **March 17-18, 2026**
 + Address: [USF Marshall Student Center, 4103 USF Cedar Circle, Tampa, FL 33620](https://maps.app.goo.gl/sBoRwfSa4C6EQELe8)
@@ -19,6 +19,8 @@ Dates, address, contact:
 + Google Form (food, restrictions): [TBD]
 + Google Form (proposed presentations): [TBD]
 + We use Eastern Time (ET) for this workshop.
+
+---
 
 # Tentative Schedule
 
@@ -34,57 +36,71 @@ Schedule is subject to change.
 + **13:30 PM** Interviews with Teams (1/4 day)
 + **15:30 PM** AI Related Work on Compression (1/4 day) -->
 
-## March 17: FZ Project
+## March 17: FZ Project (ET)
 
 ### Morning
-+ **09:30 AM** FZ Thrust 1 (1h 15m)
++ **09:30–09:40 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
++ **09:40–10:30 AM** FZ Thrust 1
     + Update, Highlight 1, Highlight 2, Discussion Topic
-+ **10:30 AM** Break
-+ **10:45 AM** FZ Thrust 2 (1h 15m)
++ **10:30–10:45 AM** Break
++ **10:45 AM–12:00 PM** FZ Thrust 2 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
+
+### Lunch
++ **12:00–01:30 PM** Lunch break (on your own)
 
 ### Afternoon
-+ **13:30 PM** FZ Thrust 3 (1h 15m)
++ **01:30–02:45 PM** FZ Thrust 3 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
-+ **14:45 PM** Break
-+ **15:00 PM** Open Session (Discussion, Other Projects, etc.)
++ **02:45–03:00 PM** Break
++ **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
 
-## March 18: ZF Project
+---
+
+## March 18: ZF Project (ET)
 
 ### Morning
-+ **09:00 AM** ZF Thrust 1 (1h 15m)
++ **09:00–09:10 AM** Welcome remarks: Provost Dr. Mohapatra (USF welcome/overview)
++ **09:10–10:15 AM** ZF Thrust 1
     + Update, Highlight 1, Highlight 2, Discussion Topic
-+ **10:15 AM** Break
-+ **10:30 AM** ZF Thrust 2 (1h 15m)
++ **10:15–10:30 AM** Break
++ **10:30–11:45 AM** ZF Thrust 2 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
++ **11:45 AM–12:00 PM** Buffer / informal discussion
+
+### Lunch
++ **12:00–01:30 PM** Lunch break (on your own)
 
 ### Afternoon
-+ **13:30 PM** ZF Thrust 3 (1h 15m)
++ **01:30–02:45 PM** ZF Thrust 3 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
-+ **14:45 PM** Break
-+ **15:00 PM** Open Session (Discussion, Other Projects, etc.)
++ **02:45–03:00 PM** Break
++ **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
 
 ### Breakouts
-+ Breakouts for Outside projects (e.g. Jiannan, Xin, etc…)
++ Breakouts for outside projects during Open Session (e.g., Jiannan, Xin, etc.)
+
+---
 
 ## March 16, March 19: USF AI College Visit (optional)
 + Have a visit to the USF Bellini College of Artificial Intelligence, Cybersecurity and Computing
-+ Meetings with Jiajun Huang and other faculty to discuss about collaboration.
++ Meetings with Jiajun Huang and other faculty to discuss collaboration.
 
+---
 
 # Logistics
 
 ## Hotels
 March is a very busy season in Tampa as it is a popular spring break destination. Please book your hotel as soon as possible. 
 We recommend staying at hotels that are within walking distance of the venue:
-*   **Embassy Suites by Hilton Tampa USF** (3705 Spectrum Blvd, Tampa, FL 33612)
-*   **Holiday Inn Tampa North by IHG** (3751 E Fowler Ave, Tampa, FL 33612)
-*   **Home2 Suites by Hilton Tampa USF** (11606 McKinley Dr, Tampa, FL 33612)
++ **Embassy Suites by Hilton Tampa USF** (3705 Spectrum Blvd, Tampa, FL 33612)
++ **Holiday Inn Tampa North by IHG** (3751 E Fowler Ave, Tampa, FL 33612)
++ **Home2 Suites by Hilton Tampa USF** (11606 McKinley Dr, Tampa, FL 33612)
 
 ## Food
-*   **Breakfast**: Not provided. StarBucks and Panera Bread are on campus.
-*   **Lunch**: Not provided. There are some restaurants (e.g., Panera Bread) in the same building, you may order on your own.
-*   **Dinner**: Not provided.
++ **Breakfast**: Not provided. Starbucks and Panera Bread are on campus.
++ **Lunch**: Not provided. There are some restaurants (e.g., Panera Bread) in the same building, you may order on your own.
++ **Dinner**: Not provided.
 
 ## Transportation
 
