@@ -34,38 +34,49 @@ Schedule is subject to change.
 + **13:30 PM** Interviews with Teams (1/4 day)
 + **15:30 PM** AI Related Work on Compression (1/4 day) -->
 
-## March 17: FZ Project
+## March 17: FZ Project (ET)
 
 ### Morning
-+ **09:30 AM** FZ Thrust 1 (1h 15m)
++ **09:30–09:40 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
++ **09:40–10:30 AM** FZ Thrust 1
     + Update, Highlight 1, Highlight 2, Discussion Topic
-+ **10:30 AM** Break
-+ **10:45 AM** FZ Thrust 2 (1h 15m)
++ **10:30–10:45 AM** Break
++ **10:45 AM–12:00 PM** FZ Thrust 2 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
+
+### Lunch
++ **12:00–01:30 PM** Lunch break (on your own)
 
 ### Afternoon
-+ **13:30 PM** FZ Thrust 3 (1h 15m)
++ **01:30–02:45 PM** FZ Thrust 3 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
-+ **14:45 PM** Break
-+ **15:00 PM** Open Session (Discussion, Other Projects, etc.)
++ **02:45–03:00 PM** Break
++ **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
 
-## March 18: ZF Project
+---
+
+## March 18: ZF Project (ET)
 
 ### Morning
-+ **09:00 AM** ZF Thrust 1 (1h 15m)
++ **09:00–09:10 AM** Welcome remarks: Provost Dr. Mohapatra (USF welcome/overview)
++ **09:10–10:15 AM** ZF Thrust 1
     + Update, Highlight 1, Highlight 2, Discussion Topic
-+ **10:15 AM** Break
-+ **10:30 AM** ZF Thrust 2 (1h 15m)
++ **10:15–10:30 AM** Break
++ **10:30–11:45 AM** ZF Thrust 2 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
++ **11:45 AM–12:00 PM** Buffer / informal discussion
+
+### Lunch
++ **12:00–01:30 PM** Lunch break (on your own)
 
 ### Afternoon
-+ **13:30 PM** ZF Thrust 3 (1h 15m)
++ **01:30–02:45 PM** ZF Thrust 3 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
-+ **14:45 PM** Break
-+ **15:00 PM** Open Session (Discussion, Other Projects, etc.)
++ **02:45–03:00 PM** Break
++ **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
 
 ### Breakouts
-+ Breakouts for Outside projects (e.g. Jiannan, Xin, etc…)
++ Breakouts for outside projects during Open Session (e.g., Jiannan, Xin, etc.)
 
 ## March 16, March 19: USF AI College Visit (optional)
 + Have a visit to the USF Bellini College of Artificial Intelligence, Cybersecurity and Computing
