@@ -53,7 +53,9 @@ Schedule is subject to change.
 
 ### Afternoon
 + **01:30–02:45 PM** FZ Thrust 3 (1h 15m)
-    + Update, Highlight 1, Highlight 2, Discussion Topic
+    + Thrust Overview (15m): H. Guo
+    + FZ-Vis Deep-dive (45m): G. Liu
+    + Open Discussion (15m)
 + **02:45–03:00 PM** Break
 + **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
 
@@ -75,7 +77,10 @@ Schedule is subject to change.
 
 ### Afternoon
 + **01:30–02:45 PM** ZF Thrust 3 (1h 15m)
-    + Update, Highlight 1, Highlight 2, Discussion Topic
+    + Thrust Overview: (Concurrent) preservation of multiple feature descriptors (20m): H. Guo
+    + Topology-preserving compression (20m): H. Guo
+    + Spectrum-preserving compression (20m): H. Guo
+    + Open discussion (15m)
 + **02:45–03:00 PM** Break
 + **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
 
