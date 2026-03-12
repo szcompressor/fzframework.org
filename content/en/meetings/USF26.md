@@ -41,7 +41,9 @@ Schedule is subject to change.
 ### Morning
 + **09:30–09:40 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
 + **09:40–10:30 AM** FZ Thrust 1
-    + Update, Highlight 1, Highlight 2, Discussion Topic
+    + Invited Talk (15min): **Juniper Tyree** (remote) Compression Safeguards: Towards Safe and Fearless Lossy Compression
+    + FZ Demo Session and Discussion (20min): **Robert Underwood, Kai Zaho, Guoxi Liu, Skyler Ruiter, Shihui Song, and Jiannan Tian**
+    + Highlight Talk (15min): **Shihui Song** Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine
 + **10:30–10:45 AM** Break
 + **10:45 AM–12:00 PM** FZ Thrust 2 (1h 15m)
     + Update, Highlight 1, Highlight 2, Discussion Topic
