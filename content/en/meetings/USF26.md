@@ -68,8 +68,11 @@ Schedule is subject to change.
 + **09:10–10:15 AM** ZF Thrust 1
     + Update, Highlight 1, Highlight 2, Discussion Topic
 + **10:15–10:30 AM** Break
-+ **10:30–11:45 AM** ZF Thrust 2 (1h 15m)
-    + Update, Highlight 1, Highlight 2, Discussion Topic
++ **10:30–11:45 PM** ZF Thrust 2 (1h 15m)
+    + Thrust Overview: (Concurrent) preservation of multiple feature descriptors (20m): H. Guo
+    + Topology-preserving compression (20m): H. Guo
+    + Spectrum-preserving compression (20m): H. Guo
+    + Open discussion (15m)
 + **11:45 AM–12:00 PM** Buffer / informal discussion
 
 ### Lunch
@@ -77,9 +80,9 @@ Schedule is subject to change.
 
 ### Afternoon
 + **01:30–02:45 PM** ZF Thrust 3 (1h 15m)
-    + Thrust Overview: (Concurrent) preservation of multiple feature descriptors (20m): H. Guo
-    + Topology-preserving compression (20m): H. Guo
-    + Spectrum-preserving compression (20m): H. Guo
+    + Thrust Overview: (Concurrent) preservation of multiple feature descriptors (20m): S. Di
+    + Compression optimization for regular mesh data (dynamic stencil pattern and coefficients -- Thrust 1) and unstructrued data (Thrust 3) (20m): Zizhe Jian
+    + Progressive SVD (20m): Ruoyu Li 
     + Open discussion (15m)
 + **02:45–03:00 PM** Break
 + **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
