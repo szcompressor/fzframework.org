@@ -46,7 +46,11 @@ Schedule is subject to change.
     + Highlight Talk (15min): **Shihui Song** Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine
 + **10:30–10:45 AM** Break
 + **10:45 AM–12:00 PM** FZ Thrust 2 (1h 15m)
-    + Update, Highlight 1, Highlight 2, Discussion Topic
+    + Skyler: GPU modules (15 minutes)
+    + Jiannan: AMR compression (15 minutes)
+    + Ruiheng: Accelerating GPU SpMV with On-the-Fly DIV-Based Integer Delta Compression (5 minutes)
+    + Longtao: Homomophic Interpolation (15 minutes)
+    + Open discussion (25 minutes)
 
 ### Lunch
 + **12:00–01:30 PM** Lunch break (on your own)
