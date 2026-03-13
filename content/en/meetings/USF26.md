@@ -83,9 +83,9 @@ Schedule is subject to change.
 
 ### Afternoon
 + **01:30–02:45 PM** ZF Thrust 3 (1h 15m)
-    + Thrust Overview: (Concurrent) preservation of multiple feature descriptors (20m): S. Di
-    + Compression optimization for regular mesh data (dynamic stencil pattern and coefficients -- Thrust 1) and unstructrued data (Thrust 3) (20m): Zizhe Jian
-    + Progressive SVD (20m): Ruoyu Li 
+    + Thrust Overview: (Concurrent) Optimization of Lossy Compressors (20m): S. Di
+    + Analysis of dynamic stencil pattern and coefficients (Thrust 1) and unstructrued data compression (Thrust 3) (20m): Zizhe Jian
+    + Progressive SVD (Thrust 2) (20m): Ruoyu Li 
     + Open discussion (15m)
 + **02:45–03:00 PM** Break
 + **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
