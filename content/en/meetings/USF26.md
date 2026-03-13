@@ -14,10 +14,9 @@ Thank you for considering attending the FZ/ZF Joint workshop at the University o
 + Room: 2708
 + Host: Dr. Jiajun Huang (jiajunhuang@usf.edu)
 
-+ Meeting Zoom: One [Zoom link](TBD) for all the sessions
-+ Meeting docs: All slides can be found in this [shared folder](TBD)
-+ Google Form (food, restrictions): [TBD]
-+ Google Form (proposed presentations): [TBD]
++ Meeting Zoom: One [Zoom link](https://ucr.zoom.us/j/92951488688?pwd=hybjXLdJEtIhtP26pABOnH9SIc3Y3b.1) for all the sessions
++ Meeting docs: All slides can be found in this [shared folder](https://drive.google.com/drive/folders/15Beb0ke9SoVGq2Oj41cgaenaFQvyamyl?usp=sharing)
++ Google Form (proposed presentations): [Form](https://usf.az1.qualtrics.com/jfe/form/SV_3JFDLyNo5vJvVPw)
 + We use Eastern Time (ET) for this workshop.
 
 ---
@@ -113,6 +112,10 @@ We recommend staying at hotels that are within walking distance of the venue:
 + **Embassy Suites by Hilton Tampa USF** (3705 Spectrum Blvd, Tampa, FL 33612)
 + **Holiday Inn Tampa North by IHG** (3751 E Fowler Ave, Tampa, FL 33612)
 + **Home2 Suites by Hilton Tampa USF** (11606 McKinley Dr, Tampa, FL 33612)
+
+## Parking
+Guest parking is available at Crescent Hill Parking Garage (CHG). For details, please visit the [USF Parking Services website](https://www.usf.edu/business-finance/parking/visitor-parking/index.aspx).
+
 
 ## Food
 + **Breakfast**: Not provided. Starbucks and Panera Bread are on campus.
