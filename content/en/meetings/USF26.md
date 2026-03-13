@@ -66,7 +66,10 @@ Schedule is subject to change.
 ### Morning
 + **09:00–09:10 AM** Welcome remarks: Provost Dr. Mohapatra (USF welcome/overview)
 + **09:10–10:15 AM** ZF Thrust 1
-    + Update, Highlight 1, Highlight 2, Discussion Topic
+    + Thrust Overview (20m): *L. Liu*
+    + Rate-Distortion Theory for Scientific Datasets: Current State and Next Steps (15m): S. Sinha
+    + Token-Based  Rate-Distortion Theory for AI Scaling Laws (15m): S. Sinha
+    + Open discussion (15m)
 + **10:15–10:30 AM** Break
 + **10:30–11:45 PM** ZF Thrust 2 (1h 15m)
     + Thrust Overview: (Concurrent) preservation of multiple feature descriptors (20m): H. Guo
