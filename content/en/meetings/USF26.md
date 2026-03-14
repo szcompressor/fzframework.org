@@ -40,25 +40,25 @@ Schedule is subject to change.
 ### Morning
 + **09:30–09:40 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
 + **09:40–10:30 AM** FZ Thrust 1
-    + Invited Talk (15min): **Juniper Tyree** (remote) Compression Safeguards: Towards Safe and Fearless Lossy Compression
-    + FZ Demo Session and Discussion (20min): **Robert Underwood, Kai Zaho, Guoxi Liu, Skyler Ruiter, Shihui Song, and Jiannan Tian**
-    + Highlight Talk (15min): **Shihui Song** Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine
+    + [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
+    + [20m] FZ Demo Session and Discussion [Robert Underwood, Argonne National Laboratory; Kai Zhao, Florida State University; Guoxi Liu, The Ohio State University; Skyler Ruiter, Indiana University; Shihui Song, University of Iowa; Jiannan Tian, Oakland University]
+    + [15m] Highlight Talk: Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine [Shihui Song, University of Iowa]
 + **10:30–10:45 AM** Break
-+ **10:45 AM–12:00 PM** FZ Thrust 2 (1h 15m)
-    + Skyler: GPU modules (15 minutes)
-    + Jiannan: AMR compression (15 minutes)
-    + Ruiheng: Accelerating GPU SpMV with On-the-Fly DIV-Based Integer Delta Compression (5 minutes)
-    + Longtao: Homomophic Interpolation (15 minutes)
-    + Open discussion (25 minutes)
++ **10:45 AM–12:00 PM** FZ Thrust 2
+    + [15m] GPU modules [Skyler Ruiter, Indiana University]
+    + [15m] AMR compression [Jiannan Tian, Oakland University]
+    + [15m] Accelerating GPU SpMV with On-the-Fly DIV-Based Integer Delta Compression [Ruiheng Chen, Indiana University]
+    + [15m] Homomorphic Interpolation [Longtao Zhang, Florida State University]
+    + [15m] Open discussion
 
 ### Lunch
 + **12:00–01:30 PM** Lunch break (on your own)
 
 ### Afternoon
-+ **01:30–02:45 PM** FZ Thrust 3 (1h 15m)
-    + Thrust Overview (15m): H. Guo
-    + FZ-Vis Deep-dive (45m): G. Liu
-    + Open Discussion (15m)
++ **01:30–02:45 PM** FZ Thrust 3
+    + [15m] Thrust Overview [Hanqi Guo, The Ohio State University]
+    + [45m] FZ-Vis Deep-dive [Guoxi Liu, The Ohio State University]
+    + [15m] Open Discussion
 + **02:45–03:00 PM** Break
 + **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
 
@@ -69,27 +69,27 @@ Schedule is subject to change.
 ### Morning
 + **09:00–09:10 AM** Welcome remarks: Provost Dr. Mohapatra (USF welcome/overview)
 + **09:10–10:15 AM** ZF Thrust 1
-    + Thrust Overview (20m): *L. Liu*
-    + Rate-Distortion Theory for Scientific Datasets: Current State and Next Steps (15m): S. Sinha
-    + Token-Based  Rate-Distortion Theory for AI Scaling Laws (15m): S. Sinha
-    + Open discussion (15m)
+    + [20m] Thrust Overview [Lingjia Liu, Virginia Polytechnic Institute and State University]
+    + [15m] Rate-Distortion Theory for Scientific Datasets: Current State and Next Steps [Sujata Sinha, Virginia Polytechnic Institute and State University]
+    + [15m] Token-Based Rate-Distortion Theory for AI Scaling Laws [Sujata Sinha, Virginia Polytechnic Institute and State University]
+    + [15m] Open discussion
 + **10:15–10:30 AM** Break
-+ **10:30–11:45 PM** ZF Thrust 2 (1h 15m)
-    + Thrust Overview: (Concurrent) preservation of multiple feature descriptors (20m): H. Guo
-    + Topology-preserving compression (20m): H. Guo
-    + Spectrum-preserving compression (20m): H. Guo
-    + Open discussion (15m)
++ **10:30–11:45 AM** ZF Thrust 2
+    + [20m] Thrust Overview: (Concurrent) preservation of multiple feature descriptors [Hanqi Guo, The Ohio State University]
+    + [20m] Topology-preserving compression [Hanqi Guo, The Ohio State University]
+    + [20m] Spectrum-preserving compression [Hanqi Guo, The Ohio State University]
+    + [15m] Open discussion
 + **11:45 AM–12:00 PM** Buffer / informal discussion
 
 ### Lunch
 + **12:00–01:30 PM** Lunch break (on your own)
 
 ### Afternoon
-+ **01:30–02:45 PM** ZF Thrust 3 (1h 15m)
-    + Thrust Overview: (Concurrent) Optimization of Lossy Compressors (20m): S. Di
-    + Analysis of dynamic stencil pattern and coefficients (Thrust 1) and unstructrued data compression (Thrust 3) (20m): Zizhe Jian
-    + Progressive SVD (Thrust 2) (20m): Ruoyu Li 
-    + Open discussion (15m)
++ **01:30–02:45 PM** ZF Thrust 3
+    + [20m] Thrust Overview: (Concurrent) Optimization of Lossy Compressors [Sheng Di, Argonne National Laboratory]
+    + [20m] Analysis of dynamic stencil pattern and coefficients (Thrust 1) and unstructured data compression (Thrust 3) [Zizhe Jian, University of California, Riverside]
+    + [20m] Progressive SVD (Thrust 2) [Ruoyu Li, Florida State University]
+    + [15m] Open discussion
 + **02:45–03:00 PM** Break
 + **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
 
@@ -107,17 +107,22 @@ Schedule is subject to change.
 # Logistics
 
 ## Hotels
-March is a very busy season in Tampa as it is a popular spring break destination. Please book your hotel as soon as possible. 
+March is a very busy season in Tampa as it is a popular spring break destination. Please book your hotel as soon as possible.
 We recommend staying at hotels that are within walking distance of the venue:
 + **Embassy Suites by Hilton Tampa USF** (3705 Spectrum Blvd, Tampa, FL 33612)
 + **Holiday Inn Tampa North by IHG** (3751 E Fowler Ave, Tampa, FL 33612)
 + **Home2 Suites by Hilton Tampa USF** (11606 McKinley Dr, Tampa, FL 33612)
 
 ## Parking
-Guest parking is available at Crescent Hill Parking Garage (CHG). For details, please visit the [USF Parking Services website](https://www.usf.edu/business-finance/parking/visitor-parking/index.aspx).
+Free parking passes are available for all attendees, sponsored by the Bellini College of AI at USF. Please pick up your pass at the registration desk. Passes are valid for the following locations:
++ **Crescent Hill Parking Garage (CHG)**: Levels 2–6 (note: levels 5 and 6 are closed the week of the workshop)
++ **Lot 3B**
+
+For more details, visit the [USF Parking Services website](https://www.usf.edu/business-finance/parking/visitor-parking/index.aspx).
 
 
 ## Food
++ **Coffee & Water**: Provided for free both days (morning and afternoon), sponsored by the Bellini College of AI at USF.
 + **Breakfast**: Not provided. Starbucks and Panera Bread are on campus.
 + **Lunch**: Not provided. There are some restaurants (e.g., Panera Bread) in the same building, you may order on your own.
 + **Dinner**: Not provided.
