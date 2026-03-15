@@ -39,8 +39,9 @@ Schedule is subject to change.
 ## March 17: FZ Project (ET)
 
 ### Morning
-+ **09:30–09:40 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
-+ **09:40–10:30 AM** FZ Thrust 1
++ **09:30–09:45 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
++ **09:45–09:50 AM** Logistics: Dr. Jiajun Huang (Host)
++ **09:50–10:40 AM** FZ Thrust 1
     + [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
     + [20m] FZ Demo Session and Discussion
         + Robert Underwood, Argonne National Laboratory
@@ -50,8 +51,8 @@ Schedule is subject to change.
         + Shihui Song, University of Iowa
         + Jiannan Tian, Oakland University
     + [15m] Highlight Talk: Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine [Shihui Song, University of Iowa]
-+ **10:30–10:45 AM** Break
-+ **10:45 AM–12:00 PM** FZ Thrust 2
++ **10:40–10:55 AM** Break
++ **10:55 AM–12:10 PM** FZ Thrust 2
     + [15m] GPU modules [Skyler Ruiter, Indiana University]
     + [15m] AMR compression [Jiannan Tian, Oakland University]
     + [15m] Accelerating GPU SpMV with On-the-Fly DIV-Based Integer Delta Compression [Ruiheng Chen, Indiana University]
@@ -59,7 +60,7 @@ Schedule is subject to change.
     + [15m] Open Discussion
 
 ### Lunch
-+ **12:00–01:30 PM** Lunch break (on your own)
++ **12:10–01:30 PM** Lunch break (on your own)
 
 ### Afternoon
 + **01:30–02:45 PM** FZ Thrust 3
@@ -74,22 +75,22 @@ Schedule is subject to change.
 ## March 18: ZF Project (ET)
 
 ### Morning
-+ **09:00–09:10 AM** Welcome remarks: Provost Dr. Mohapatra (USF welcome/overview)
-+ **09:10–10:15 AM** ZF Thrust 1
++ **09:00–09:15 AM** Welcome remarks: Provost Dr. Mohapatra (USF welcome/overview)
++ **09:15–10:20 AM** ZF Thrust 1
     + [20m] Thrust Overview [Lingjia Liu, Virginia Tech]
     + [15m] Rate-Distortion Theory for Scientific Datasets: Current State and Next Steps [Sujata Sinha, Virginia Tech]
     + [15m] Token-Based Rate-Distortion Theory for AI Scaling Laws [Sujata Sinha, Virginia Tech]
     + [15m] Open Discussion
-+ **10:15–10:30 AM** Break
-+ **10:30–11:45 AM** ZF Thrust 2
++ **10:20–10:35 AM** Break
++ **10:35–11:50 AM** ZF Thrust 2
     + [20m] Thrust Overview: (Concurrent) preservation of multiple feature descriptors [Hanqi Guo, The Ohio State University]
     + [20m] Topology-preserving compression [Hanqi Guo, The Ohio State University]
     + [20m] Spectrum-preserving compression [Hanqi Guo, The Ohio State University]
     + [15m] Open Discussion
-+ **11:45 AM–12:00 PM** Buffer / informal discussion
++ **11:50 AM–12:05 PM** Buffer / informal discussion
 
 ### Lunch
-+ **12:00–01:30 PM** Lunch break (on your own)
++ **12:05–01:30 PM** Lunch break (on your own)
 
 ### Afternoon
 + **01:30–02:45 PM** ZF Thrust 3
