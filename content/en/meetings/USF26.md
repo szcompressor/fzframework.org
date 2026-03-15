@@ -39,8 +39,8 @@ Schedule is subject to change.
 ## March 17: FZ Project (ET)
 
 ### Morning
-+ **09:30–09:35 AM** Welcome & Logistics: Dr. Jiajun Huang (Host)
-+ **09:35–09:45 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
++ **09:30–09:40 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
++ **09:40–09:45 AM** Logistics: Dr. Jiajun Huang (Host)
 + **09:45–10:35 AM** FZ Thrust 1
     + [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
     + [20m] FZ Demo Session and Discussion
