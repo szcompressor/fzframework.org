@@ -39,8 +39,9 @@ Schedule is subject to change.
 ## March 17: FZ Project (ET)
 
 ### Morning
-+ **09:30–09:40 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
-+ **09:40–10:30 AM** FZ Thrust 1
++ **09:30–09:35 AM** Welcome & Logistics: Dr. Jiajun Huang (Host)
++ **09:35–09:45 AM** Welcome remarks: Dean Dr. Sarkar (Bellini College welcome/overview)
++ **09:45–10:35 AM** FZ Thrust 1
     + [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
     + [20m] FZ Demo Session and Discussion
         + Robert Underwood, Argonne National Laboratory
@@ -50,8 +51,8 @@ Schedule is subject to change.
         + Shihui Song, University of Iowa
         + Jiannan Tian, Oakland University
     + [15m] Highlight Talk: Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine [Shihui Song, University of Iowa]
-+ **10:30–10:45 AM** Break
-+ **10:45 AM–12:00 PM** FZ Thrust 2
++ **10:35–10:50 AM** Break
++ **10:50 AM–12:05 PM** FZ Thrust 2
     + [15m] GPU modules [Skyler Ruiter, Indiana University]
     + [15m] AMR compression [Jiannan Tian, Oakland University]
     + [15m] Accelerating GPU SpMV with On-the-Fly DIV-Based Integer Delta Compression [Ruiheng Chen, Indiana University]
@@ -59,7 +60,7 @@ Schedule is subject to change.
     + [15m] Open Discussion
 
 ### Lunch
-+ **12:00–01:30 PM** Lunch break (on your own)
++ **12:05–01:30 PM** Lunch break (on your own)
 
 ### Afternoon
 + **01:30–02:45 PM** FZ Thrust 3
