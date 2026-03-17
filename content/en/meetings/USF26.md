@@ -57,8 +57,9 @@ Schedule is subject to change. On account of weather, we are compressing the fir
 + **03:30–03:45 PM** Break
 + **03:45–04:00 PM** [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
 + **04:00–05:15 PM** FZ Thrust 3
-    + [15m] Thrust Overview [Hanqi Guo, The Ohio State University]
-    + [45m] FZ-Vis Deep-dive [Guoxi Liu, The Ohio State University]
+    + [10m] Thrust Overview [Hanqi Guo, The Ohio State University]
+    + [30m] FZ-Vis Deep-dive [Guoxi Liu, The Ohio State University]
+    + [20m] (Not So) Early Experiences in AI for CS Research [Hanqi Guo, The Ohio State University]
     + [15m] Open Discussion
 
 ---
