@@ -87,8 +87,8 @@ Schedule is subject to change. On account of weather, we are compressing the fir
 ### Afternoon
 + **01:30–02:45 PM** ZF Thrust 3
     + [20m] Thrust Overview: (Concurrent) Optimization of Lossy Compressors [Sheng Di, Argonne National Laboratory]
-    + [20m] Analysis of dynamic stencil pattern and coefficients (Thrust 1) and unstructured data compression (Thrust 3) [Zizhe Jian, University of California, Riverside]
-    + [20m] Progressive SVD (Thrust 2) [Ruoyu Li, Florida State University]
+    + [20m] Analysis of dynamic stencil pattern and coefficients and unstructured data compression [Zizhe Jian, University of California, Riverside]
+    + [20m] Progressive SVD [Ruoyu Li, Florida State University]
     + [15m] Open Discussion
 + **02:45–03:00 PM** Break
 + **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
