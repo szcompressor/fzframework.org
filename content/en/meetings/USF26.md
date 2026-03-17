@@ -24,20 +24,20 @@ Thank you for considering attending the FZ/ZF Joint workshop at the University o
 
 # Tentative Schedule
 
-Schedule is subject to change.  On account of weather we are compressing the first day into a half day
+Schedule is subject to change. On account of weather, we are compressing the first day into a half day.
 
 ## March 17: FZ Project (ET)
 
 ### Morning
 
-**Canceled** on account of weather travel delays
+**Canceled** on account of weather travel delays.
 
 ### Lunch
-+ **11:00–noon** Lunch break (on your own or before you arrive)
++ **11:00 AM–12:00 PM** Lunch break (on your own or before you arrive)
 
 ### Afternoon
-+ **12:00-12:15 PM** Jaijun Huang -- Welcome and Logistics
-+ **12:15-1:00 PM** FZ Thrust 1
++ **12:00–12:15 PM** Welcome & Logistics: Dr. Jiajun Huang (Host)
++ **12:15–01:00 PM** FZ Thrust 1
     + [20m] FZ Demo Session and Discussion
         + Robert Underwood, Argonne National Laboratory
         + Kai Zhao, Florida State University
@@ -46,26 +46,21 @@ Schedule is subject to change.  On account of weather we are compressing the fir
         + Shihui Song, University of Iowa
         + Jiannan Tian, Oakland University
     + [15m] Highlight Talk: Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine [Shihui Song, University of Iowa]
-
-**1:00-1:15** break
-
-+ **1:15 PM–3:30 PM** FZ Thrust 2
+    + [10m] Open Discussion
++ **01:00–01:15 PM** Break
++ **01:15–03:30 PM** FZ Thrust 2
     + [15m] GPU modules [Skyler Ruiter, Indiana University]
     + [15m] AMR compression [Jiannan Tian, Oakland University]
     + [15m] Accelerating GPU SpMV with On-the-Fly DIV-Based Integer Delta Compression [Ruiheng Chen, Indiana University]
     + [15m] Homomorphic Interpolation [Longtao Zhang, Florida State University]
-    + [15m] Open Discussion
-
-**3:30-3:45** break
-
-+ 3:45-4:00 [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
-
+    + [75m] Open Discussion
++ **03:30–03:45 PM** Break
++ **03:45–04:00 PM** [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
 + **04:00–05:15 PM** FZ Thrust 3
     + [15m] Thrust Overview [Hanqi Guo, The Ohio State University]
     + [45m] FZ-Vis Deep-dive [Guoxi Liu, The Ohio State University]
     + [15m] Open Discussion
 
- 
 ---
 
 ## March 18: ZF Project (ET)
