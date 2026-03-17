@@ -53,7 +53,7 @@ Schedule is subject to change. On account of weather, we are compressing the fir
     + [15m] AMR compression [Jiannan Tian, Oakland University]
     + [15m] Accelerating GPU SpMV with On-the-Fly DIV-Based Integer Delta Compression [Ruiheng Chen, Indiana University]
     + [15m] Homomorphic Interpolation [Longtao Zhang, Florida State University]
-    + [75m] Open Discussion
+    + [30m] Open Discussion
 + **03:30–03:45 PM** Break
 + **03:45–04:00 PM** [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
 + **04:00–05:15 PM** FZ Thrust 3
