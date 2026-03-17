@@ -24,24 +24,20 @@ Thank you for considering attending the FZ/ZF Joint workshop at the University o
 
 # Tentative Schedule
 
-Schedule is subject to change.
-
-<!-- ## March 17: ML/AI with Application Teams
-
-### Morning: Application Teams Needs
-+ **09:00 AM** Welcome and Logistics
-+ **09:15 AM** Application Teams Needs Session (1/2 day)
-
-### Afternoon: Interviews & AI on Compression
-+ **13:30 PM** Interviews with Teams (1/4 day)
-+ **15:30 PM** AI Related Work on Compression (1/4 day) -->
+Schedule is subject to change.  On account of weather we are compressing the first day into a half day
 
 ## March 17: FZ Project (ET)
 
 ### Morning
-+ **09:30–09:40 AM** Welcome & Logistics: Dr. Jiajun Huang (Host)
-+ **09:40–10:30 AM** FZ Thrust 1
-    + [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
+
+**Canceled** on account of weather travel delays
+
+### Lunch
++ **11:00–noon** Lunch break (on your own or before you arrive)
+
+### Afternoon
++ **12:00-12:15 PM** Jaijun Huang -- Welcome and Logistics
++ **12:15-1:00 PM** FZ Thrust 1
     + [20m] FZ Demo Session and Discussion
         + Robert Underwood, Argonne National Laboratory
         + Kai Zhao, Florida State University
@@ -50,25 +46,26 @@ Schedule is subject to change.
         + Shihui Song, University of Iowa
         + Jiannan Tian, Oakland University
     + [15m] Highlight Talk: Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine [Shihui Song, University of Iowa]
-+ **10:30–10:45 AM** Break
-+ **10:45 AM–12:00 PM** FZ Thrust 2
+
+**1:00-1:15** break
+
++ **1:15 PM–3:30 PM** FZ Thrust 2
     + [15m] GPU modules [Skyler Ruiter, Indiana University]
     + [15m] AMR compression [Jiannan Tian, Oakland University]
     + [15m] Accelerating GPU SpMV with On-the-Fly DIV-Based Integer Delta Compression [Ruiheng Chen, Indiana University]
     + [15m] Homomorphic Interpolation [Longtao Zhang, Florida State University]
     + [15m] Open Discussion
 
-### Lunch
-+ **12:00–01:30 PM** Lunch break (on your own)
+**3:30-3:45** break
 
-### Afternoon
-+ **01:30–02:45 PM** FZ Thrust 3
++ 3:45-4:00 [15m] Invited Talk: Compression Safeguards: Towards Safe and Fearless Lossy Compression [Juniper Tyree, University of Helsinki, remote]
+
++ **04:00–05:15 PM** FZ Thrust 3
     + [15m] Thrust Overview [Hanqi Guo, The Ohio State University]
     + [45m] FZ-Vis Deep-dive [Guoxi Liu, The Ohio State University]
     + [15m] Open Discussion
-+ **02:45–03:00 PM** Break
-+ **03:00–05:00 PM** Open Session (discussion, other projects, etc.)
 
+ 
 ---
 
 ## March 18: ZF Project (ET)
